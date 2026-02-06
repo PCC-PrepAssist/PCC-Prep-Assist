@@ -14,7 +14,7 @@ after initial setup, the tool can also be used offline.
 
 2. 🔗 Open the tool URL
    Example:
-   https://eiji1402.github.io/pro-pure-tool/
+  https://pcc-prepassist.github.io/PCC-Prep-Assist/
 
 3. ⬆️ Tap the Share icon
    (Square with arrow pointing up)
