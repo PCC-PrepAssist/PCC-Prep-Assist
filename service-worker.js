@@ -1,4 +1,4 @@
-const CACHE_NAME = "pcc-prep-assist-en-v1";
+const CACHE_NAME = "pcc-prep-assist-en-v2";
 
 const PRECACHE_URLS = [
   "./",
