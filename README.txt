@@ -13,8 +13,8 @@ after initial setup, the tool can also be used offline.
 
 
 2. 🔗 Open the tool URL
-   Example:
  https://pcc-prep-assist.github.io/PCC-Prep-Assist/
+
 
 3. ⬆️ Tap the Share icon
    (Square with arrow pointing up)
